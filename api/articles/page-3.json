@@ -4,7 +4,7 @@
     "previousPage": "https://smartconfigai.github.io/articles-api/api/articles/page-2.json",
     "nextPage": "https://smartconfigai.github.io/articles-api/api/articles/page-5.json",
     "numArticles": 5,
-    "totalArticles": 29
+    "totalArticles": 24
   },
   "data": {
     "articles": [
