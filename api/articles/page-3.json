@@ -11,8 +11,7 @@
       {
         "title": "API Gateway Patterns",
         "content": "API gateways provide a single entry point for your microservices. Learn about routing, load balancing, and request transformation.",
-        "likes": 41,
-        "comments": []
+        "likes": 41
       },
       {
         "title": "Caching Strategies for APIs",
@@ -28,20 +27,17 @@
       {
         "title": "Webhook Implementation Guide",
         "content": "Webhooks enable real-time communication between services. Learn how to implement secure and reliable webhooks.",
-        "likes": 28,
-        "comments": []
+        "likes": 28
       },
       {
         "title": "API Authentication Methods",
         "content": "Compare different authentication methods including API keys, OAuth 2.0, JWT tokens, and their use cases.",
-        "likes": 52,
-        "comments": []
+        "likes": 52
       },
       {
         "title": "API Monitoring and Observability",
         "content": "Monitor your API's health, performance, and usage with proper logging, metrics, and tracing.",
-        "likes": 34,
-        "comments": []
+        "likes": 34
       }
     ]
   }

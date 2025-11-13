@@ -11,14 +11,12 @@
       {
         "title": "API Lifecycle Management",
         "content": "Manage your API through its entire lifecycle from design and development to deprecation and retirement.",
-        "likes": 35,
-        "comments": []
+        "likes": 35
       },
       {
         "title": "API Analytics and Metrics",
         "content": "Track API usage, performance, and business metrics to make data-driven decisions about your API strategy.",
-        "likes": 32,
-        "comments": []
+        "likes": 32
       },
       {
         "title": "OpenAPI Specification Deep Dive",
@@ -34,8 +32,7 @@
       {
         "title": "API Governance Best Practices",
         "content": "Establish governance policies and processes to ensure consistency and quality across all your APIs.",
-        "likes": 29,
-        "comments": []
+        "likes": 29
       }
     ]
   }

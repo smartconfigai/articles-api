@@ -11,8 +11,7 @@
       {
         "title": "API Versioning Strategies",
         "content": "Learn different strategies for versioning your APIs to maintain backward compatibility while introducing new features.",
-        "likes": 29,
-        "comments": []
+        "likes": 29
       },
       {
         "title": "Rate Limiting and Throttling",
@@ -28,14 +27,12 @@
       {
         "title": "GraphQL vs REST: Choosing the Right API",
         "content": "Compare GraphQL and REST APIs to understand when to use each approach for your project.",
-        "likes": 47,
-        "comments": []
+        "likes": 47
       },
       {
         "title": "API Testing Strategies",
         "content": "Comprehensive testing ensures your API works correctly. Learn about unit tests, integration tests, and API testing tools.",
-        "likes": 24,
-        "comments": []
+        "likes": 24
       },
       {
         "title": "Microservices Communication Patterns",

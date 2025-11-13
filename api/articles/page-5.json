@@ -22,20 +22,17 @@
       {
         "title": "Async API Patterns",
         "content": "Asynchronous APIs enable better scalability and user experience. Explore patterns like polling, webhooks, and server-sent events.",
-        "likes": 37,
-        "comments": []
+        "likes": 37
       },
       {
         "title": "API Contract Testing",
         "content": "Contract testing ensures compatibility between API providers and consumers. Learn about Pact and other contract testing tools.",
-        "likes": 30,
-        "comments": []
+        "likes": 30
       },
       {
         "title": "API Performance Optimization",
         "content": "Optimize your API's performance through database query optimization, connection pooling, and efficient serialization.",
-        "likes": 43,
-        "comments": []
+        "likes": 43
       },
       {
         "title": "Building Resilient APIs",

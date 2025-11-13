@@ -11,32 +11,27 @@
       {
         "title": "Decoy Article 1",
         "content": "This page exists but is not part of the linked list navigation. Accessing pages numerically will lead to incorrect data.",
-        "likes": 9999,
-        "comments": []
+        "likes": 9999
       },
       {
         "title": "Decoy Article 2",
         "content": "Following the nextPage metadata is the correct way to navigate through the articles.",
-        "likes": 9998,
-        "comments": []
+        "likes": 9998
       },
       {
         "title": "Decoy Article 3",
         "content": "This demonstrates why you should always use the pagination metadata rather than assuming sequential page numbers.",
-        "likes": 9997,
-        "comments": []
+        "likes": 9997
       },
       {
         "title": "Decoy Article 4",
         "content": "The actual navigation path is: page-1 -> page-2 -> page-3 -> page-5 -> page-6",
-        "likes": 9996,
-        "comments": []
+        "likes": 9996
       },
       {
         "title": "Decoy Article 5",
         "content": "This page (page-4) is orphaned - it exists but is not linked in the navigation chain. Following nextPage links will skip from page-3 directly to page-5.",
-        "likes": 9995,
-        "comments": []
+        "likes": 9995
       }
     ]
   }

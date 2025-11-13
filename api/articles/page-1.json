@@ -23,7 +23,12 @@
         "title": "Understanding RESTful Services",
         "content": "RESTful services are a cornerstone of modern web development. Learn how to design and implement REST APIs that are scalable and maintainable.",
         "likes": 38,
-        "comments": []
+        "comments": [
+          {
+            "author": "API Developer",
+            "text": "Very informative guide on REST principles!"
+          }
+        ]
       },
       {
         "title": "Best Practices for API Security",
@@ -40,13 +45,23 @@
         "title": "API Documentation Standards",
         "content": "Good documentation is essential for API adoption. Learn about OpenAPI, Swagger, and other documentation tools that make your API accessible to developers.",
         "likes": 31,
-        "comments": []
+        "comments": [
+          {
+            "author": "Technical Writer",
+            "text": "Documentation is key to API success!"
+          }
+        ]
       },
       {
         "title": "Error Handling in APIs",
         "content": "Proper error handling improves developer experience and makes debugging easier. This guide covers HTTP status codes, error response formats, and best practices.",
         "likes": 27,
-        "comments": []
+        "comments": [
+          {
+            "author": "Backend Developer",
+            "text": "Great tips on error handling patterns!"
+          }
+        ]
       }
     ]
   }
