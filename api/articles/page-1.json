@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "currentPage": "https://smartconfigai.github.io/articles-api/api/articles/page-1.json",
+    "previousPage": null,
+    "nextPage": "https://smartconfigai.github.io/articles-api/api/articles/page-2.json",
+    "numArticles": 5,
+    "totalArticles": 29
+  },
+  "data": {
+    "articles": [
+      {
+        "title": "Getting Started with API Development",
+        "content": "This is a comprehensive guide to getting started with API development. We'll cover the basics of REST APIs, authentication, and best practices.",
+        "likes": 42,
+        "comments": [
+          {
+            "author": "John Doe",
+            "text": "Great article! Very helpful for beginners."
+          }
+        ]
+      },
+      {
+        "title": "Understanding RESTful Services",
+        "content": "RESTful services are a cornerstone of modern web development. Learn how to design and implement REST APIs that are scalable and maintainable.",
+        "likes": 38,
+        "comments": []
+      },
+      {
+        "title": "Best Practices for API Security",
+        "content": "Security is crucial when building APIs. This article covers authentication, authorization, rate limiting, and other security best practices.",
+        "likes": 55,
+        "comments": [
+          {
+            "author": "Security Expert",
+            "text": "Excellent coverage of OAuth 2.0!"
+          }
+        ]
+      },
+      {
+        "title": "API Documentation Standards",
+        "content": "Good documentation is essential for API adoption. Learn about OpenAPI, Swagger, and other documentation tools that make your API accessible to developers.",
+        "likes": 31,
+        "comments": []
+      },
+      {
+        "title": "Error Handling in APIs",
+        "content": "Proper error handling improves developer experience and makes debugging easier. This guide covers HTTP status codes, error response formats, and best practices.",
+        "likes": 27,
+        "comments": []
+      }
+    ]
+  }
+}

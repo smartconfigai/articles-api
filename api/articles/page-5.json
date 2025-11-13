@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "currentPage": "https://smartconfigai.github.io/articles-api/api/articles/page-5.json",
+    "previousPage": "https://smartconfigai.github.io/articles-api/api/articles/page-3.json",
+    "nextPage": "https://smartconfigai.github.io/articles-api/api/articles/page-6.json",
+    "numArticles": 5,
+    "totalArticles": 29
+  },
+  "data": {
+    "articles": [
+      {
+        "title": "API Design Principles",
+        "content": "Learn the fundamental principles of good API design, including consistency, simplicity, and developer experience.",
+        "likes": 45,
+        "comments": [
+          {
+            "author": "Senior Developer",
+            "text": "These principles are essential for any API project."
+          }
+        ]
+      },
+      {
+        "title": "Async API Patterns",
+        "content": "Asynchronous APIs enable better scalability and user experience. Explore patterns like polling, webhooks, and server-sent events.",
+        "likes": 37,
+        "comments": []
+      },
+      {
+        "title": "API Contract Testing",
+        "content": "Contract testing ensures compatibility between API providers and consumers. Learn about Pact and other contract testing tools.",
+        "likes": 30,
+        "comments": []
+      },
+      {
+        "title": "API Performance Optimization",
+        "content": "Optimize your API's performance through database query optimization, connection pooling, and efficient serialization.",
+        "likes": 43,
+        "comments": []
+      },
+      {
+        "title": "Building Resilient APIs",
+        "content": "Design APIs that gracefully handle failures through retries, circuit breakers, and fallback mechanisms.",
+        "likes": 40,
+        "comments": [
+          {
+            "author": "Reliability Engineer",
+            "text": "Resilience patterns are critical for production systems."
+          }
+        ]
+      }
+    ]
+  }
+}
+

@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "currentPage": "https://smartconfigai.github.io/articles-api/api/articles/page-6.json",
+    "previousPage": "https://smartconfigai.github.io/articles-api/api/articles/page-5.json",
+    "nextPage": null,
+    "numArticles": 4,
+    "totalArticles": 29
+  },
+  "data": {
+    "articles": [
+      {
+        "title": "API Lifecycle Management",
+        "content": "Manage your API through its entire lifecycle from design and development to deprecation and retirement.",
+        "likes": 35,
+        "comments": []
+      },
+      {
+        "title": "API Analytics and Metrics",
+        "content": "Track API usage, performance, and business metrics to make data-driven decisions about your API strategy.",
+        "likes": 32,
+        "comments": []
+      },
+      {
+        "title": "OpenAPI Specification Deep Dive",
+        "content": "Master the OpenAPI specification to create comprehensive API documentation and generate client SDKs automatically.",
+        "likes": 48,
+        "comments": [
+          {
+            "author": "Technical Writer",
+            "text": "OpenAPI has revolutionized API documentation."
+          }
+        ]
+      },
+      {
+        "title": "API Governance Best Practices",
+        "content": "Establish governance policies and processes to ensure consistency and quality across all your APIs.",
+        "likes": 29,
+        "comments": []
+      }
+    ]
+  }
+}
+

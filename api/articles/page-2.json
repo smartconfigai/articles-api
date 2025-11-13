@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "currentPage": "https://smartconfigai.github.io/articles-api/api/articles/page-2.json",
+    "previousPage": "https://smartconfigai.github.io/articles-api/api/articles/page-1.json",
+    "nextPage": "https://smartconfigai.github.io/articles-api/api/articles/page-3.json",
+    "numArticles": 5,
+    "totalArticles": 29
+  },
+  "data": {
+    "articles": [
+      {
+        "title": "API Versioning Strategies",
+        "content": "Learn different strategies for versioning your APIs to maintain backward compatibility while introducing new features.",
+        "likes": 29,
+        "comments": []
+      },
+      {
+        "title": "Rate Limiting and Throttling",
+        "content": "Implement rate limiting to protect your API from abuse and ensure fair usage among all clients.",
+        "likes": 33,
+        "comments": [
+          {
+            "author": "DevOps Engineer",
+            "text": "Very practical examples!"
+          }
+        ]
+      },
+      {
+        "title": "GraphQL vs REST: Choosing the Right API",
+        "content": "Compare GraphQL and REST APIs to understand when to use each approach for your project.",
+        "likes": 47,
+        "comments": []
+      },
+      {
+        "title": "API Testing Strategies",
+        "content": "Comprehensive testing ensures your API works correctly. Learn about unit tests, integration tests, and API testing tools.",
+        "likes": 24,
+        "comments": []
+      },
+      {
+        "title": "Microservices Communication Patterns",
+        "content": "Explore different patterns for communication between microservices, including synchronous and asynchronous approaches.",
+        "likes": 39,
+        "comments": [
+          {
+            "author": "Architect",
+            "text": "Great overview of communication patterns."
+          }
+        ]
+      }
+    ]
+  }
+}

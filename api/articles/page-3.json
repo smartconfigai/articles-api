@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "currentPage": "https://smartconfigai.github.io/articles-api/api/articles/page-3.json",
+    "previousPage": "https://smartconfigai.github.io/articles-api/api/articles/page-2.json",
+    "nextPage": "https://smartconfigai.github.io/articles-api/api/articles/page-5.json",
+    "numArticles": 5,
+    "totalArticles": 29
+  },
+  "data": {
+    "articles": [
+      {
+        "title": "API Gateway Patterns",
+        "content": "API gateways provide a single entry point for your microservices. Learn about routing, load balancing, and request transformation.",
+        "likes": 41,
+        "comments": []
+      },
+      {
+        "title": "Caching Strategies for APIs",
+        "content": "Effective caching can dramatically improve API performance. Explore different caching strategies and when to use them.",
+        "likes": 36,
+        "comments": [
+          {
+            "author": "Performance Engineer",
+            "text": "Cache invalidation strategies are crucial!"
+          }
+        ]
+      },
+      {
+        "title": "Webhook Implementation Guide",
+        "content": "Webhooks enable real-time communication between services. Learn how to implement secure and reliable webhooks.",
+        "likes": 28,
+        "comments": []
+      },
+      {
+        "title": "API Authentication Methods",
+        "content": "Compare different authentication methods including API keys, OAuth 2.0, JWT tokens, and their use cases.",
+        "likes": 52,
+        "comments": []
+      },
+      {
+        "title": "API Monitoring and Observability",
+        "content": "Monitor your API's health, performance, and usage with proper logging, metrics, and tracing.",
+        "likes": 34,
+        "comments": []
+      }
+    ]
+  }
+}
+
